@@ -1,15 +1,15 @@
 # crypto_alg
-13 cipher algorithms \n
-Ceasers \n
-Atbash\n
-August\n
-Affine\n
-Vegnerene\n
-Gronsfeld\n
-Beaufort\n
-Autoclave/running key\n
-Ngram operations\n
-hill cipher\n
-Rail fence\n
-Route\n
+13 cipher algorithms <br>
+Ceasers<br>
+Atbash<br>
+August<br>
+Affine<br>
+Vegnerene<br>
+Gronsfeld<br>
+Beaufort<br>
+Autoclave/running key<br>
+Ngram operations<br>
+hill cipher<br>
+Rail fence<br>
+Route<br>
 Myszkowiski
